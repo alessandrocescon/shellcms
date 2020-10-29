@@ -1,2 +1,2 @@
 # shellcms
-a new fast cms written in bash
+a new fast flat file based cms written in bash
